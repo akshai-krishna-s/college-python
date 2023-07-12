@@ -1,5 +1,6 @@
-# Write a program to find the sum of elements of a list
+# AIM: Write a program to find the sum of elements of a list
 
+# Source Code:
 n = int(input("Enter the number of elements: "))
 list = []
 for i in range(n):

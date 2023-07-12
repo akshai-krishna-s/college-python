@@ -1,5 +1,6 @@
-# Write a program to find n prime numbers
+# AIM: Write a program to find n prime numbers
 
+# Source Code:
 n = int(input("Enter the range: "))
 for i in range(2, n):
     isPrime = True

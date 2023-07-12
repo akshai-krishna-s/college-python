@@ -1,5 +1,6 @@
-# Write a program to find the area and circumference of a circle
+# AIM: Write a program to find the area and circumference of a circle
 
+# Source Code:
 radius = float(input("Enter the radius of the circle: "))
 
 area = 3.14 * radius * radius

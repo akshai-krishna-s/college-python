@@ -1,5 +1,6 @@
-# Write a program to find odd numbers between 1 and 9
+# AIM: Write a program to find odd numbers between 1 and 9
 
+# Source Code:
 for i in range(1, 10):
     if i % 2 == 1:
         print(i)

@@ -1,6 +1,7 @@
-# write a program to find gcd
+# AIM: Write a program to find gcd
 
 
+# Source Code:
 def gcd(a, b):
     if b == 0:
         return a

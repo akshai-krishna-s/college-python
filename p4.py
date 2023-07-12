@@ -1,5 +1,6 @@
-# Write a program to find the greatest of two numbers
+# AIM: Write a program to find the greatest of two numbers
 
+# Source Code:
 n1 = int(input("Enter the first number: "))
 n2 = int(input("Enter the second number: "))
 if n1 > n2:

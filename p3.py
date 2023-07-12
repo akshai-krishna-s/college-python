@@ -1,5 +1,6 @@
-# Write a program to calculate simple interest
+# AIM: Write a program to find the simple interest
 
+# Source Code:
 p = float(input("Enter the principal amount: "))
 r = float(input("Enter the rate of interest: "))
 t = float(input("Enter the time in years: "))

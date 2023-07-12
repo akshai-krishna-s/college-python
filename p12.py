@@ -1,5 +1,6 @@
-# write a program to print 1-10
+# AIM: Write a program to print 1-10
 
+# Source Code:
 n = 1
 while n <= 10:
     print(n, end=" ")

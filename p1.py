@@ -1,5 +1,6 @@
-# Write a program to find the sum of two numbers
+# AIM: Write a program to find the sum of two numbers
 
+# Source Code:
 n1 = int(input("Enter the first number: "))
 n2 = int(input("Enter the second number: "))
 

@@ -1,5 +1,6 @@
-# Write a program to check if a number is even or odd
+# AIM: Write a program to check if a number is even or odd
 
+# Source Code:
 n = int(input("Enter a number: "))
 if n % 2 == 0:
     print(n, "is even")
