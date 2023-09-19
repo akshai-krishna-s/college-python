@@ -2,10 +2,10 @@
 
 
 # Source Code:
-def gcd(a, b):
-    if b == 0:
-        return a
-    return gcd(b, a % b)
+def gcd(a: int, b: int) -> int:
+    if max([a, b]) % min([a, b]) == 0:
+        return min([a, b])
+    return gcd(min([a, b]), max([a, b]) % min([a, b]))
 
 
 a = int(input("Enter the first number: "))
