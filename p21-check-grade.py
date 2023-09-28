@@ -24,4 +24,4 @@ elif marks > 60:
 # Enter marks: 95
 # Grade A
 # Enter marks: 80
-# Grade B
+# Grade C+
